@@ -9,7 +9,7 @@ public class Question_SIx {
         System.out.println("Enter any decimal number: ");
         number = console.nextDouble();
 
-        System.out.println("The enter number to its nearest integer is " + Math.round(number));
+        System.out.println("The enter number to its nearest integer is " + (int) Math.round(number));
     }
 
 }
