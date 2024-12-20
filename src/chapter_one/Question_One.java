@@ -6,8 +6,8 @@ public class Question_One
         System.out.println("**********************************");
         System.out.println("*    Programming Assignment 1    *");
         System.out.println("*     Computer Programming I     *");
-        System.out.println("*          Author: Zilla          ");
-        System.out.println("*   Date: Saturday, 21 December   ");
+        System.out.println("*          Author: Zilla         *");
+        System.out.println("*   Date: Saturday, 21 December  *");
         System.out.println("**********************************");
     }
 }
