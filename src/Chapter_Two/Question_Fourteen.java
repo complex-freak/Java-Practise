@@ -1,4 +1,4 @@
-package chapter_one;
+package Chapter_Two;
 import java.util.Scanner;
 
 public class Question_Fourteen {
