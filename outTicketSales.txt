@@ -1,0 +1,2 @@
+Total tickets sold are 340250
+Total sales is $31225625.00

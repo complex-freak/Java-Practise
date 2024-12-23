@@ -1,0 +1,5 @@
+ticketsPrice   numberOfTicketsSold
+250            5750
+100            280000
+50             35750
+25             18750
