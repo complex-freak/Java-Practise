@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.io.*;
 
 public class Question_One {
-    static double PI = 3.1416;
+    static final double PI = 3.1416;
 
     public static void main(String[] args) throws FileNotFoundException {
         // declare reference variables
