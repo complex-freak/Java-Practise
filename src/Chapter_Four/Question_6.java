@@ -22,13 +22,13 @@ public class Question_6 {
         if ( discriminant == 0) {
             System.out.println("The equation has single (repeated) root.");
             root = -b / (2 * a);
-            System.out.printf("The root is %.2f", root);
+            System.out.printf("The root is %.2f%n", root);
         }
         else if ( discriminant > 0) {
             System.out.println("The equation has two real roots");
             root1 = (-b + Math.sqrt(discriminant)) / (2 * a);
             root2 = (-b - Math.sqrt(discriminant)) / (2 * a);
-            System.out.printf("The roots are %.2f and %.2f", root1, root2);
+            System.out.printf("The roots are %.2f and %.2f%n", root1, root2);
         }
         else {
             System.out.println("The equation has two complex roots.");
