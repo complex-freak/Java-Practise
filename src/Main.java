@@ -1,13 +1,20 @@
 import java.util.Scanner;
-import java.io.*;
 
 public class Main {
-    public static void main(String[] args) throws FileNotFoundException {
-//        Scanner inFile = new Scanner(new FileReader("program.dat"));
+    public static void main(String[] args) {
+//        Clock myClock = new Clock(23, 34, 56);
+//        Scanner input = new Scanner(System.in);
+//
+//        myClock.printTime();
+//        myClock.incrementHours();
+//        System.out.println(myClock);
+//
+//        Clock yourClock = myClock.getCopy();
+//        yourClock.printTime();
+//        System.out.println(myClock);
+        Person person1 = new Person();
 
-//        PrintWriter outFIle = new PrintWriter("program.out");
-
-//        inFile.close();
-//        outFIle.close();
+        person1.setName("Sandy", "Smith");
+        System.out.println(person1);
     }
 }
