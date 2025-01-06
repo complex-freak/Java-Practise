@@ -6,14 +6,6 @@ public class Main {
         Scanner input = new Scanner(System.in);
         double[] list = new double[5];
 
-//        System.out.print("Enter a list of numbers: ");
-//        for (int i = 0; i < 5; i++) {
-//            list[i] = input.nextDouble();
-//        }
-//        System.out.println();
-//
-//        System.out.println(largest(list));
-//        System.out.println(largest(1, 2, 3, 4, 5, 6, 7, 8, 9, 0));
         twoDim();
         vectorExample();
     }
